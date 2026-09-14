@@ -1,0 +1,299 @@
+[
+  {
+    "id": "PP001",
+    "reference": "PP-001",
+    "slug": "modern-4-bedroom-house-east-legon",
+    "title": "Modern 4 Bedroom House",
+    "purpose": "sale",
+    "propertyType": "House",
+    "location": "East Legon, Accra",
+    "region": "Greater Accra",
+    "price": 2850000,
+    "currency": "GHS",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "parking": 3,
+    "propertySize": "320 sqm",
+    "landSize": "0.15 acre",
+    "description": "A contemporary family residence in a sought-after Accra neighbourhood, with generous living areas and private outdoor space.",
+    "features": [
+      "Fitted kitchen",
+      "En-suite bedrooms",
+      "Private compound",
+      "Security room",
+      "Servant quarters"
+    ],
+    "amenities": [
+      "Water storage",
+      "Backup power provision",
+      "Paved compound"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "status": "FOR SALE",
+    "featured": true,
+    "inspectionAvailable": true,
+    "agent": "Gordon Dodoo",
+    "createdAt": "2026-08-15"
+  },
+  {
+    "id": "PP002",
+    "reference": "PP-002",
+    "slug": "executive-3-bedroom-apartment-cantonments",
+    "title": "Executive 3 Bedroom Apartment",
+    "purpose": "rent",
+    "propertyType": "Apartment",
+    "location": "Cantonments, Accra",
+    "region": "Greater Accra",
+    "price": 18000,
+    "currency": "GHS",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "parking": 2,
+    "propertySize": "220 sqm",
+    "landSize": "",
+    "description": "Bright executive apartment with modern finishes, excellent security and convenient access to key Accra districts.",
+    "features": [
+      "Fully fitted kitchen",
+      "Balcony",
+      "Walk-in closet",
+      "24-hour security"
+    ],
+    "amenities": [
+      "Gym",
+      "Swimming pool",
+      "Parking",
+      "Backup generator"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "status": "FOR RENT",
+    "featured": true,
+    "inspectionAvailable": true,
+    "agent": "Gordon Dodoo",
+    "createdAt": "2026-08-20"
+  },
+  {
+    "id": "PP003",
+    "reference": "PP-003",
+    "slug": "residential-land-oyarifa",
+    "title": "Residential Land",
+    "purpose": "sale",
+    "propertyType": "Land",
+    "location": "Oyarifa, Accra",
+    "region": "Greater Accra",
+    "price": 650000,
+    "currency": "GHS",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "parking": 0,
+    "propertySize": "",
+    "landSize": "0.25 acre",
+    "description": "Residential development land in a growing Accra corridor, suitable for a private home or small residential project.",
+    "features": [
+      "Good road access",
+      "Residential neighbourhood",
+      "Development potential"
+    ],
+    "amenities": [
+      "Electricity nearby",
+      "Water access nearby"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "status": "FOR SALE",
+    "featured": true,
+    "inspectionAvailable": true,
+    "agent": "Gordon Dodoo",
+    "createdAt": "2026-08-22"
+  },
+  {
+    "id": "PP004",
+    "reference": "PP-004",
+    "slug": "commercial-property-spintex",
+    "title": "Commercial Property",
+    "purpose": "sale",
+    "propertyType": "Commercial Property",
+    "location": "Spintex, Accra",
+    "region": "Greater Accra",
+    "price": 4200000,
+    "currency": "GHS",
+    "bedrooms": 0,
+    "bathrooms": 4,
+    "parking": 12,
+    "propertySize": "760 sqm",
+    "landSize": "0.35 acre",
+    "description": "High-visibility commercial property positioned for offices, retail or mixed commercial use.",
+    "features": [
+      "Main-road frontage",
+      "Large parking area",
+      "Multiple rooms",
+      "Reception area"
+    ],
+    "amenities": [
+      "Storage",
+      "Staff facilities",
+      "Service access"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "status": "FOR SALE",
+    "featured": false,
+    "inspectionAvailable": true,
+    "agent": "Gordon Dodoo",
+    "createdAt": "2026-08-25"
+  },
+  {
+    "id": "PP005",
+    "reference": "PP-005",
+    "slug": "luxury-5-bedroom-house-trasacco",
+    "title": "Luxury 5 Bedroom House",
+    "purpose": "sale",
+    "propertyType": "House",
+    "location": "Trasacco, Accra",
+    "region": "Greater Accra",
+    "price": 5200000,
+    "currency": "GHS",
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "parking": 4,
+    "propertySize": "460 sqm",
+    "landSize": "0.25 acre",
+    "description": "Large luxury residence designed for comfortable family living and entertaining.",
+    "features": [
+      "Large living room",
+      "Fitted kitchen",
+      "Private garden",
+      "Guest suite",
+      "Study"
+    ],
+    "amenities": [
+      "Pool-ready space",
+      "Security",
+      "Water storage"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "status": "FOR SALE",
+    "featured": true,
+    "inspectionAvailable": true,
+    "agent": "Gordon Dodoo",
+    "createdAt": "2026-08-28"
+  },
+  {
+    "id": "PP006",
+    "reference": "PP-006",
+    "slug": "show-home-3-bedroom-apartment",
+    "title": "3 Bedroom Show Apartment",
+    "purpose": "display",
+    "propertyType": "Apartment",
+    "location": "Airport Residential, Accra",
+    "region": "Greater Accra",
+    "price": 0,
+    "currency": "GHS",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "parking": 2,
+    "propertySize": "205 sqm",
+    "landSize": "",
+    "description": "A finished show apartment available for prospective clients to view by scheduled appointment.",
+    "features": [
+      "Show kitchen",
+      "Designer finishes",
+      "Large windows",
+      "Fitted wardrobes"
+    ],
+    "amenities": [
+      "Secure parking",
+      "Reception",
+      "Viewing appointment"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "status": "ON DISPLAY",
+    "featured": true,
+    "inspectionAvailable": true,
+    "agent": "Gordon Dodoo",
+    "createdAt": "2026-08-30"
+  },
+  {
+    "id": "PP007",
+    "reference": "PP-007",
+    "slug": "office-space-osu",
+    "title": "Prime Office Space",
+    "purpose": "rent",
+    "propertyType": "Office Space",
+    "location": "Osu, Accra",
+    "region": "Greater Accra",
+    "price": 12000,
+    "currency": "GHS",
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "parking": 6,
+    "propertySize": "180 sqm",
+    "landSize": "",
+    "description": "Professional office accommodation suitable for a growing business in central Accra.",
+    "features": [
+      "Reception",
+      "Private offices",
+      "Meeting room",
+      "Kitchenette"
+    ],
+    "amenities": [
+      "Parking",
+      "Security",
+      "Backup power"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "status": "FOR RENT",
+    "featured": false,
+    "inspectionAvailable": true,
+    "agent": "Gordon Dodoo",
+    "createdAt": "2026-08-31"
+  },
+  {
+    "id": "PP008",
+    "reference": "PP-008",
+    "slug": "warehouse-tema",
+    "title": "Industrial Warehouse",
+    "purpose": "rent",
+    "propertyType": "Warehouse",
+    "location": "Tema, Greater Accra",
+    "region": "Greater Accra",
+    "price": 35000,
+    "currency": "GHS",
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "parking": 8,
+    "propertySize": "1200 sqm",
+    "landSize": "0.6 acre",
+    "description": "Spacious warehouse with access suitable for logistics, storage and distribution operations.",
+    "features": [
+      "High ceiling",
+      "Loading area",
+      "Wide access",
+      "Office section"
+    ],
+    "amenities": [
+      "Security",
+      "Parking",
+      "Service yard"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1586528116493-da8b6f3a1c4c?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "status": "FOR RENT",
+    "featured": false,
+    "inspectionAvailable": true,
+    "agent": "Gordon Dodoo",
+    "createdAt": "2026-09-01"
+  }
+]
